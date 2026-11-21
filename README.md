@@ -16,9 +16,9 @@
 
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
+[![TelegramMiniApp_Minecraft_server](https://svg.bookmark.style/api?url=https://github.com/r3DBAD/TelegramMiniApp_Minecraft_server&mode=light&style=horizontal)](https://github.com/r3DBAD/TelegramMiniApp_Minecraft_server)
 [![SpaceCenter](https://svg.bookmark.style/api?url=https://github.com/r3DBAD/SpaceCenter&mode=light&style=horizontal)](https://github.com/r3DBAD/SpaceCenter)
 [![Airport-control](https://svg.bookmark.style/api?url=https://github.com/r3DBAD/Airport-control&mode=dark&style=horizontal)](https://github.com/r3DBAD/Airport-control)
-[![TelegramMiniApp_Minecraft_server](https://svg.bookmark.style/api?url=https://github.com/r3DBAD/TelegramMiniApp_Minecraft_server&mode=light&style=horizontal)](https://github.com/r3DBAD/TelegramMiniApp_Minecraft_server)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
