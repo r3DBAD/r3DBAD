@@ -18,7 +18,7 @@
 
 [![SpaceCenter](https://svg.bookmark.style/api?url=https://github.com/r3DBAD/SpaceCenter&mode=light&style=horizontal)](https://github.com/r3DBAD/SpaceCenter)
 [![Airport-control](https://svg.bookmark.style/api?url=https://github.com/r3DBAD/Airport-control&mode=dark&style=horizontal)](https://github.com/r3DBAD/Airport-control)
-[![Weather4You](https://svg.bookmark.style/api?url=https://github.com/r3DBAD/Weather4You&mode=light&style=horizontal)](https://github.com/r3DBAD/Weather4You)
+[![TelegramMiniApp_Minecraft_server](https://svg.bookmark.style/api?url=https://github.com/r3DBAD/TelegramMiniApp_Minecraft_server&mode=light&style=horizontal)](https://github.com/r3DBAD/TelegramMiniApp_Minecraft_server)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
